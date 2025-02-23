@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCA_AylaraGoreMevsimler", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCA_KarmaOrnekler", "WCA_KarmaOrnekler\WCA_KarmaOrnekler.csproj", "{231C44FB-6DB3-40B8-A1FD-730DDF25CE10}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCA_Odev", "WCA_Odev\WCA_Odev.csproj", "{A87FEF67-8D50-4A47-BC2E-063FFC93136E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{231C44FB-6DB3-40B8-A1FD-730DDF25CE10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{231C44FB-6DB3-40B8-A1FD-730DDF25CE10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{231C44FB-6DB3-40B8-A1FD-730DDF25CE10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A87FEF67-8D50-4A47-BC2E-063FFC93136E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87FEF67-8D50-4A47-BC2E-063FFC93136E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A87FEF67-8D50-4A47-BC2E-063FFC93136E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A87FEF67-8D50-4A47-BC2E-063FFC93136E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
