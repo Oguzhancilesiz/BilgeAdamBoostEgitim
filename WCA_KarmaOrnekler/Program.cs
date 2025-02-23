@@ -4,6 +4,9 @@
     {
         static void Main(string[] args)
         {
+
+
+
         //geridon:
         //    string kAdi = "admin";
         //    string pass = "1234";
@@ -32,6 +35,8 @@
 
 
 
+
+
         //geridon:
         //    Console.WriteLine("----------------------");
         //    Console.WriteLine("Sayı Giriniz: ");
@@ -54,30 +59,35 @@
 
 
 
-        geri:
-            Console.WriteLine("----------------------");
-            Console.WriteLine("Sayı Giriniz: ");
 
-            int sayii = Convert.ToInt32(Console.ReadLine());
-            int islem;
-            if (sayii == 0)
-            {
-                Console.WriteLine("Sayı Sıfırdır");
-            }
-            else if (sayii % 2 == 0)
-            {
-                Console.WriteLine("Sayı Çifttir");
-                islem = sayii / 2;
-                Console.WriteLine("ikiye bölümü : {0}",islem);
-            }
-            else
-            {
 
-                islem = sayii * 2;
-                Console.WriteLine("Sayı Tektir");
-                Console.WriteLine("iki katı : {0}", islem);
-            }
-            goto geri;
+        //geri:
+        //    Console.WriteLine("----------------------");
+        //    Console.WriteLine("Sayı Giriniz: ");
+
+        //    int sayii = Convert.ToInt32(Console.ReadLine());
+        //    int islem;
+        //    if (sayii == 0)
+        //    {
+        //        Console.WriteLine("Sayı Sıfırdır");
+        //    }
+        //    else if (sayii % 2 == 0)
+        //    {
+        //        Console.WriteLine("Sayı Çifttir");
+        //        islem = sayii / 2;
+        //        Console.WriteLine("ikiye bölümü : {0}",islem);
+        //    }
+        //    else
+        //    {
+
+        //        islem = sayii * 2;
+        //        Console.WriteLine("Sayı Tektir");
+        //        Console.WriteLine("iki katı : {0}", islem);
+        //    }
+        //    goto geri;
+
+
+
 
 
         }
