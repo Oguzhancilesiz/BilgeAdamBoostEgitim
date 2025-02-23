@@ -32,7 +32,7 @@
             }
             catch (Exception ex)
             {
-                Console.Clear();
+                Console.Clear();  
                 goto BasaDon;
             }
 
